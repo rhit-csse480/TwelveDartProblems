@@ -1,7 +1,7 @@
 // ignore: depend_on_referenced_packages
 import 'package:test/test.dart';
 
-import '../src/tweleve_problems.dart';
+import '../src/twelve_problems.dart';
 
 void main() {
   group('Test Second Digit 5', () {
