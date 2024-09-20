@@ -1,8 +1,6 @@
 import 'dart:math';
 
 /*
- * Class: TwelveProblems
- *
  * Purpose: This exercise is intended to give you practice
  * in Dart with various algorithms learned in the previous course
  * CSSE220
@@ -13,7 +11,6 @@ import 'dart:math';
  * TODO: cite your help here or say "only used CSSE480 materials"
  * ***************************************************************************************
  */
-import 'dart:math';
 
 /*
    * Given a particular point in the coordinate plane, compute the point's
